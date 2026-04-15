@@ -77,7 +77,7 @@ class G1WasmDemo {
     this.lastFpsTime = 0;
     this.fps         = 0;
 
-    this.cameraFollow = false;
+    this.cameraFollow = true;
     this._camTarget   = new THREE.Vector3(); // pre-alloc, reused every frame
     this._frozen      = false;  // true after reset: ignore server qpos until Enter
 
