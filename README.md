@@ -303,3 +303,12 @@ After each sequence playback, the backend produces a structured data package sto
 
 This project builds on [GEAR-SONIC / GR00T-WholeBodyControl](https://github.com/NVlabs/GR00T-WholeBodyControl) by NVIDIA GEAR Lab.
 
+## Contact
+
+Email:jianuocao0105@gmail.com
+
+Wechat:wwcx0123wwcx
+
+X:@JianuoCao
+
+
