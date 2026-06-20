@@ -3,7 +3,9 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2604.11251"><img src="https://img.shields.io/badge/arXiv-2604.11251-b31b1b.svg" alt="arXiv"></a>
   <a href="https://arxiv.org/pdf/2604.11251"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper"></a>
+  <a href="https://huggingface.co/datasets/JianuoCao/CLAW/tree/main"><img src="src="https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?logo=huggingface" alt="Dataset"></a>
   <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"></a>
+  
 </p>
 
 <p align="center">
